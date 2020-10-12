@@ -1,4 +1,3 @@
-const { query } = require("express")
 
 module.exports = {
 
